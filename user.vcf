@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Liddell;Eric;;;
+FN: Eric  Liddell 
+ORG:Snyk;
+TITLE:Sales Development Representative\nPublic Sector
+EMAIL;type=INTERNET;type=WORK;type=pref:eric.liddell@snyk.io
+TEL;type=WORK;type=VOICE:315 289 9651
+item1.ADR;type=WORK;type=pref:;;Boston\nMA\;;;02110;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.linkedin.com/in/eric-liddell-682b86a8/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
